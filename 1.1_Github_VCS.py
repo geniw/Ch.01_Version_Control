@@ -43,7 +43,7 @@ Geni Williams
 I have a younger brother who is 8
 Iowa State
 My favorite color is green
-
+I have a cat and a dog
 
 
 
