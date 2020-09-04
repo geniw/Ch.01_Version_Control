@@ -44,7 +44,7 @@ I have a younger brother who is 8
 Iowa State
 My favorite color is green
 I have a cat and a dog
-
+I'm in show choir, cheer, & band
 
 
 ------------------Student 05------------------
