@@ -45,7 +45,7 @@ Iowa State
 My favorite color is green
 I have a cat and a dog
 I'm in show choir, cheer, & band
-
+My favorite movie is The Titanic
 
 ------------------Student 05------------------
 
