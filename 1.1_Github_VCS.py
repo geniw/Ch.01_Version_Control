@@ -38,15 +38,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 04------------------
-This is the Master Branch
-Me
-04/17/04
-
-
-
-
-
-
+This is the Testing1 branch
+Geni Williams
+I have a younger brother who is 8
+Iowa State
+My favorite color is green
+I have a cat and a dog
+I'm in show choir, cheer, & band
+My favorite movie is The Titanic
+When I'm older I plan to be a software engineer
 ------------------Student 05------------------
 
 
