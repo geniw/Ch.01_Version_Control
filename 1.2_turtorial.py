@@ -9,7 +9,8 @@ Turtle Documentation: https://docs.python.org/3.3/library/turtle.html?highlight=
 '''
 import turtle
 yoda=turtle.Turtle()
-
+screen=turtle.Screen() # makes a screen object
+screen.bgcolor('black') # colors the screen
 
 
 yoda.write('Geni W',font=("Arial", 16, "normal")) # signs your name to your art
